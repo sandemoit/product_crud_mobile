@@ -1,0 +1,102 @@
+{
+  "Banner": [
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/online-shop-a1cef.appspot.com/o/banner1.png?alt=media&token=8cf2f8ab-808d-4a45-853b-eae19ed6c096"
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/online-shop-a1cef.appspot.com/o/banner2.png?alt=media&token=90e42b3a-af8d-40f1-a8c7-0833a92e2e0c"
+    }
+  ],
+  "Category": [
+    {
+      "id": 0,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/online-shop-a1cef.appspot.com/o/cat1.png?alt=media&token=7c1388e8-ce30-48ee-be0c-cfde71ff0946",
+      "title": "Adidas"
+    },
+    {
+      "id": 1,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/online-shop-a1cef.appspot.com/o/cat2.png?alt=media&token=6cfcd020-aee4-4944-875a-920a57f52db0",
+      "title": "Nike"
+    },
+    {
+      "id": 2,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/online-shop-a1cef.appspot.com/o/cat3.png?alt=media&token=9145f1d5-16a0-491c-a34c-4c147ab43dc8",
+      "title": "Puma"
+    },
+    {
+      "id": 3,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/online-shop-a1cef.appspot.com/o/cat4.png?alt=media&token=fd492595-3408-49c5-8bc6-65e6615d7d18",
+      "title": "Zara"
+    },
+    {
+      "id": 4,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/project175-f1c13.appspot.com/o/cat5.png?alt=media&token=ab0e35db-c9ef-4ce1-b74c-d2bfc51a112c",
+      "title": "Gucci"
+    }
+  ],
+  "Items": [
+    {
+      "description": "This light and airy pink shirt is perfect for warm weather. Made from 100% cotton, it's breathable and comfortable to wear. It features a classic button-down collar and a relaxed fit.",
+      "oldPrice": 25,
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/online-shop-a1cef.appspot.com/o/item_1.png?alt=media&token=bbf959de-6db5-493a-b63d-c91afc1799d8"
+      ],
+      "price": 35,
+      "rating": 4.6,
+      "review": 10,
+      "title": "Pink singlet"
+    },
+    {
+      "description": "This light and airy pink shirt is perfect for warm weather. Made from 100% cotton, it's breathable and comfortable to wear. It features a classic button-down collar and a relaxed fit.",
+      "oldPrice": 40,
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/online-shop-a1cef.appspot.com/o/item_2.png?alt=media&token=a25a8d5e-0081-4156-9f65-3d5a71e33de1"
+      ],
+      "price": 55,
+      "rating": 4.1,
+      "review": 45,
+      "title": "Jean Coat"
+    },
+    {
+      "description": "This cozy orange cable knit sweater is perfect for winter weather. Made from 100% wool, it's warm and stylish. It features a classic crewneck collar and a relaxed fit.",
+      "oldPrice": 60,
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/online-shop-a1cef.appspot.com/o/item_3.png?alt=media&token=0c7e06e0-ea00-4770-bcc7-28d11f9aac40"
+      ],
+      "price": 75,
+      "rating": 4.5,
+      "review": 10,
+      "title": "Orange Knit Sweater"
+    },
+    {
+      "description": "This stylish red and black plaid shirt is perfect for any occasion. Made from a soft cotton blend, it's comfortable to wear. It features a classic button-down collar and a relaxed fit.",
+      "oldPrice": 30,
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/online-shop-a1cef.appspot.com/o/item_4.png?alt=media&token=645bd7f5-1d88-4eb9-a95d-ffd06c344de3",
+        "https://firebasestorage.googleapis.com/v0/b/online-shop-a1cef.appspot.com/o/item_4_1.png?alt=media&token=0d4eafee-c918-4497-96b1-f0c41455dfc7",
+        "https://firebasestorage.googleapis.com/v0/b/online-shop-a1cef.appspot.com/o/item_4_2.png?alt=media&token=70e11de2-740c-409a-be63-15fc31f076b8",
+        "https://firebasestorage.googleapis.com/v0/b/online-shop-a1cef.appspot.com/o/item_4_3.png?alt=media&token=4de51ceb-9d0d-4ef1-b665-b6fd45ce6e7e"
+      ],
+      "price": 40,
+      "rating": 4.2,
+      "review": 9,
+      "title": "Plaid shirt"
+    }
+  ],
+  "Review": [
+    {
+      "Description": "I love this dress! It's so well-made and comfortable, and it fits  beautifully. The fabric is high quality and I'm sure I can wear it for  years to come. It fits exactly as I wanted. ",
+      "ItemId": 4,
+      "Name": "Elina Rief",
+      "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project175-f1c13.appspot.com/o/user_1.png?alt=media&token=c9f82979-86a2-44ea-84ff-1d2e4249773b",
+      "rating": 4.6
+    },
+    {
+      "Description": "The quality of this dress is really amazing. The fabric is very soft and pleasant to the touch, and the stitching is very clean and delicate.",
+      "ItemId": 4,
+      "Name": "Cristen Alba",
+      "PicUrl": "https://firebasestorage.googleapis.com/v0/b/project175-f1c13.appspot.com/o/user_2.png?alt=media&token=bc14e560-f851-42d7-8ca7-84f8890d0a80",
+      "rating": 4.7
+    }
+  ]
+}
